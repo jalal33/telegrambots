@@ -1,5 +1,5 @@
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jalal33/telegrambots/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jalal33/telegrambots/tree/master)
 
 
 #### The Hard Way
@@ -12,15 +12,16 @@ cp sample_config.py config.py
 --- EDIT config.py values appropriately ---
 python bot.py
 ```
-## Our Telegram Channel and Group
+## my Telegram Channel 
 
 * [Luminary💫♥️لومِـنـَري](https://telegram.dog/luminary1)
 
 ## Credit, and Thanks to
 
 FeedBack and Suggestions, please feel free to say 
-* [jalal khaddour](https://telegram.dog/jalall_kh) for his [IT Bot](https://telegram.dog/IT_Ing_Bot)
+* [jalal khaddour](https://telegram.dog/jalall_kh) for his [IT Bot](https://telegram.dog/IT4TryBot)
 
+* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
  
 
 #### LICENSE
