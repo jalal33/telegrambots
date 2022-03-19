@@ -19,10 +19,7 @@ python bot.py
 ## Credit, and Thanks to
 
 FeedBack and Suggestions, please feel free to say 
-* [jalal khaddour](https://telegram.dog/jalall_kh) for his [IT Bot](https://telegram.dog/IT4TryBot)
-
-* [Dan Tès](https://telegram.dog/haskell) for his [Pyrogram Library](https://github.com/pyrogram/pyrogram)
- 
+* [jalal khaddour](https://telegram.dog/jalall_kh) for his [IT Bot](https://telegram.dog/IT4TryBot) 
 
 #### LICENSE
 - JALAL
